@@ -8,7 +8,7 @@ Order List
 
 **This is a very bold sentence**
 
-![Omlette Recipe](Desktop/UBC/DataToolbox/student/recipe/receipe.png)
+![Omlette Recipe](receipe.png)
 
 
 ### This is a REMOTE change :O
